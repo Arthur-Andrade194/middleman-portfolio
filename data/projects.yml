@@ -1,7 +1,7 @@
-- name: Longest Word Game
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: Smartvacay
+  description: Travel Itinerary generator app
+  image: projects/smartvacay-logo.png
+  url: https://www.smartvacay.com
 
 - name: Movie Watchlist
   description: Decent description of the app
@@ -9,11 +9,6 @@
   url: https://www.google.com
 
 - name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-
-- name: Final project
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://www.google.com
