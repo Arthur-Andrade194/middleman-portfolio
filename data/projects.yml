@@ -1,7 +1,7 @@
 - name: Smartvacay
   description: Travel Itinerary generator app
   image: projects/smartvacay-logo.png
-  url: https://www.smartvacay.com
+  url: https://www.smartvacay.app
 
 - name: Movie Watchlist
   description: Decent description of the app
