@@ -1,14 +1,14 @@
-- name: Smartvacay
+- name: SmartVacay                                
   description: Travel Itinerary generator app
   image: projects/smartvacay-logo.png
   url: https://www.smartvacay.app
 
-- name: Movie Watchlist
-  description: Decent description of the app
+- name: Rent your flat (IN PRODUCTION)
+  description: Complete rental website with sign in, search and post features
   image: projects/placeholder.png
-  url: https://www.google.com
+  url: https://i.etsystatic.com/13836506/r/il/c83b0c/1407050025/il_570xN.1407050025_cu6e.jpg
 
-- name: Airbnb
-  description: Decent description of the app
+- name: Credit Card Validator (IN PRODUCTION)
+  description: Will not validate your card, but tell user to never put credit card number in sketchy websites.
   image: projects/placeholder.png
-  url: https://www.google.com
+  url: https://i.etsystatic.com/13836506/r/il/c83b0c/1407050025/il_570xN.1407050025_cu6e.jpg
