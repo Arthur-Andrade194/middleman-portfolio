@@ -4,6 +4,21 @@
   grid-gap: 16px;
 }
 
+.cards .card-project {
+  border-radius: 1rem;
+  position: relative;
+  overflow: hidden;
+}
+
+*, *::before, *::after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+user agent stylesheet
+div {
+  display: block;
+}
+
 .card-product {
   overflow: hidden;
   height: 120px;
