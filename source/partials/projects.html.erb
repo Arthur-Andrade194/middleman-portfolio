@@ -5,7 +5,7 @@
         <h2 class="sub-header text-center">Recent Projects</h2>
         <div class="cards">
             <div class="card-project">
-    <img src="/images/projects/smartvacay-logo.png" class="project-img" alt="" />
+    <img src="/images/projects/SmartVacay 2.png" class="project-img" alt="" />
     <div class="project-hover">
       <h2 class="project-title">SmartVacay</h2>
       <p class="project-button" data-bs-toggle="modal" data-bs-target="#exampleModal1">
@@ -55,7 +55,6 @@
             <p class="text-muted">A Travel app that will generate a custom itinerary based on your saved places</p>
             <div class="project-tags ">
                 <i class="devicon-html5-plain"></i>
-                <i class="devicon-sass-original"></i>
                 <i class="devicon-bootstrap-plain"></i>
                 <i class="devicon-javascript-plain"></i>
                 <i class="devicon-ruby-plain"></i>
@@ -68,32 +67,13 @@
           <div class="project-buttons ">
 <a href="https://github.com/Donald-Chow/smartvacay" class="external-link" target="_blank">                <div class="btn-flat">
                   <p><i class="devicon-github-original"></i> Source Code</p>
+</a>
                 </div>
-</a>          </div>
+        </div>
         </div>
       </div>
     </div>
-  </div>
-        <h2> Projects</h2>
-        <div class="cards">
-          <% data.projects.each do |project| %>
-            <div class="card-product">
-              <%= image_tag project.image, alt: "project image" %>
-              <div class="card-product-infos w-100">
-                <div class="d-flex justify-content-between align-items-center">
-                  <h2><%= project.name %></h2>
-                  <% link_to project.url, class: 'external-link', target: '_blank' do %>
-                    <i class="btn btn-dark btn-website">
-                      <i class="fa-solid fa-globe"></i> Website
-                    </i>
-                  <% end %>
-                </div>
-                <p><%= project.description %></p>
-              </div>
-            </div>
-          <% end %>
-        </div>
-      </div>
+    </div>
     </div>
   </div>
 </div>
